@@ -1,6 +1,8 @@
 # may-cheat-sheet
 
-## Delete Files excluding some files in Linux
+Tip : use git repo search 
 
-        rm !(file1.txt|file2.png|file3.mp4)
+## Topics
 
+- [Linux Cheet Sheet](./LINUX.md)
+- [AWS Cheet Sheet](./AWS.md)
